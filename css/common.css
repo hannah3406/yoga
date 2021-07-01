@@ -1,0 +1,15 @@
+@charset "utf-8";
+
+html,body{margin:0;background-color: #fff;}
+ul,li,ol{margin:0; padding:0; list-style:none;}
+h1,h2,h3,h4,h5,h6,figure,p{margin:0;}
+img{vertical-align:top;}
+a{text-decoration:none;}
+
+
+*{
+    box-sizing: border-box;
+    font-size:24px;
+    font-family:OpenSans;
+    color:#484f5b;
+}
